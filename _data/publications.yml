@@ -15,8 +15,8 @@ main:
     conference_short: EL
     conference: <strong>Economics Lettersstrong>, Volume 229, 2023, 111189, ISSN 0165-1765.
     pdf: https://doi.org/10.1016/j.econlet.2023.111189
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
     image: ./assets/img/EL.png
