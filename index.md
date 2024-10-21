@@ -8,8 +8,7 @@ I am xxxx at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Labor economics, development economics, health economics, behavioral economics
 
 ## News
 
