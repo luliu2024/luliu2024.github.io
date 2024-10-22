@@ -11,7 +11,7 @@ main:
     notes: Early Accept
 
   - title: "The impact of the removal of Zero-COVID policies on subjective well-being: Evidence from a digital world"
-    authors: Zhihan Cui, <strong>Lu Liu</strong>, Castiel Chen Zhuang
+    authors: Zhihan Cui, <strong>Lu Liu</strong>, Castiel Chen Zhuang (co-first author)
     conference_short: EL
     conference: <strong>Economics Letters</strong>, Volume 229, 2023, 111189, ISSN 0165-1765.
     pdf: https://doi.org/10.1016/j.econlet.2023.111189
@@ -20,3 +20,14 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/EL.png
+
+  - title: "Safety Messaging Boosts Parental Vaccination Intention for Children Ages 5–11"
+    authors: Zhihan Cui, <strong>Lu Liu</strong>, Dan Li, Sherry Jueyu Wu and Xinyue Zhai (co-first author)
+    conference_short: Vaccines
+    conference: <strong>Vaccines</strong> 2022, 10, 1205. 
+    pdf: https://doi.org/10.3390/vaccines10081205
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/VC.png
