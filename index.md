@@ -13,10 +13,10 @@ I am currently an Instructor of Economics at NYU Shanghai, where I focus on labo
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** Our paper about health decision making is accepted and will be presented in the Asian Workshop on Econometrics and Health Economics, 5th Meeting.
+- **[Oct. 2024]** Our paper about public policy interdependence and tipping is formally accepted by PNAS!
+- **[June. 2024]** Our paper about health decision making is presented in the China Development and Global Economy Conference, Liaoning University.
+
 
 {% include_relative _includes/publications.md %}
 
