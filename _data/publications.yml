@@ -7,7 +7,7 @@ main:
     pdf: https://www.pnas.org/
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/tipping.jpg
     notes: Accepted
 
   - title: "The impact of the removal of Zero-COVID policies on subjective well-being: Evidence from a digital world"
