@@ -4,7 +4,7 @@ main:
     authors:  <strong>Lu Liu</strong>, Zhihan Cui, Howard Kunreuther and Geoffrey Heal
     conference_short: PNAS
     conference: Proceedings of the National Academy of Sciences of the United States of America <strong>(PNAS)</strong>, 2024.
-    pdf: https://www.pnas.org/
+    pdf: https://www.pnas.org/doi/10.1073/pnas.2414041121
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/tipping.jpg
