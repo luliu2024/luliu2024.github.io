@@ -13,6 +13,7 @@ I am currently an Instructor of Economics at NYU Shanghai, where I focus on labo
 
 ## News
 
+- **[Dec. 2024]** Our paper about health intervention will be presented in the 16th International Symposium on Human Capital and Labor Markets.
 - **[Nov. 2024]** Our paper about health decision making is accepted and will be presented in the Asian Workshop on Econometrics and Health Economics, 5th Meeting.
 - **[Oct. 2024]** Our paper about public policy interdependence and tipping is formally accepted by PNAS!
 - **[June. 2024]** Our paper about health decision making is presented in the China Development and Global Economy Conference, Liaoning University.
