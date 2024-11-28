@@ -9,9 +9,7 @@ I am currently an Instructor of Economics at NYU Shanghai, where I focus on labo
 
 My job market paper, <a href="assets/files/Lu_Liu_NYUShanghai_2024_.pdf" target="_blank" title="Click to read the full paper">
             "Opportunity Cost Neglect in Preventive Health Decisions and Mitigating it by Talking Money"
-        </a>
-
-, focuses on the opportunity cost neglect in preventive health decisions and how to mitigate it by designing interventions entitled “Active Unpacking with Money” (AUM).
+        </a>, focuses on the opportunity cost neglect in preventive health decisions and how to mitigate it by designing interventions entitled “Active Unpacking with Money” (AUM).
 
 ## Research Interests
 
